@@ -1,6 +1,6 @@
 # IBM Quantum Circuit JOB Automation
 
-A Streamlit application for creating, modifying, and executing quantum circuits on IBM Quantum backends with AI assistance.
+A Streamlit application for creating, modifying, and executing multiple jobs for quantum circuits on IBM Quantum backends with AI assistance.
 
 ## Features
 
